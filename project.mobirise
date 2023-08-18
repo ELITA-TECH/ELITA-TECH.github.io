@@ -65,18 +65,19 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "0bcro9vueu",
+    "mbrsiteDomain": "elita-tech",
     "usedWebp": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://elita-tech.github.io/elitatech.html",
     "uniqCompNum": 130,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-2603HKYS3P\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-2603HKYS3P');\n</script>"
   },
   "pages": {
     "kontakt.html": {
