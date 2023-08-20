@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "elitatech.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -65,7 +65,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "elita-tech",
+    "mbrsiteDomain": "kqar9lckrj",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -10067,7 +10067,7 @@
         }
       ]
     },
-    "elitatech.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "ELITA-TECH",
