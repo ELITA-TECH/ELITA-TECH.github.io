@@ -12,12 +12,12 @@
         "warningColor": "#e43f3f",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "Black Ops One",
+        "display1Font": "Anton",
         "display1Size": "6.6",
-        "display2Font": "Black Ops One",
+        "display2Font": "Anton",
         "display2Size": "2.8",
         "display5Font": "Playfair Display SC",
-        "display5Size": "2.4",
+        "display5Size": "2.0",
         "display7Font": "Jost",
         "display7Size": "1.4",
         "display4Font": "Jost",
@@ -61,6 +61,11 @@
         "css": "'Black Ops One', display",
         "name": "Black Ops One",
         "url": "https://fonts.googleapis.com/css?family=Black+Ops+One:400"
+      },
+      {
+        "css": "'Anton', sans-serif",
+        "name": "Anton",
+        "url": "https://fonts.googleapis.com/css?family=Anton:400"
       }
     ],
     "imageResize": true,
@@ -74,7 +79,7 @@
     "uniqCompNum": 130,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false,
     "gdpr": false,
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-2603HKYS3P\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-2603HKYS3P');\n</script>"
