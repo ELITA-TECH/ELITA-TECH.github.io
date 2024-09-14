@@ -9884,6 +9884,52 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-uooAiE0GCJ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-uooAiE0GCJ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uooAiE0GCJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uooAiE0GCJ .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-uooAiE0GCJ .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-uooAiE0GCJ .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-uooAiE0GCJ .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-uooAiE0GCJ .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uooAiE0GCJ [class^="socicon-"]:before,
+.cid-uooAiE0GCJ [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-uomPqUzJ9v {
   padding-top: 4rem;
   padding-bottom: 2rem;
