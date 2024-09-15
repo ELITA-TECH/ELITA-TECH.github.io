@@ -685,6 +685,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -780,8 +783,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
 }
 .cid-sFCw1qGFAI .navbar.opened {
   transition: all 0.3s;
@@ -1026,6 +1029,35 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-uorykaDLNU {
+  padding-top: 10rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/messenger-creation-0d4f77b5-5773-4957-9f4a-233a25a92a92-945x2048.jpeg");
+}
+.cid-uorykaDLNU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uorykaDLNU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uorykaDLNU .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-uorykaDLNU .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-uorykaDLNU .mbr-text,
+.cid-uorykaDLNU .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-tN7aQmG5C9 {
   padding-top: 9rem;
@@ -1249,6 +1281,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1344,8 +1379,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
 }
 .cid-sFCw1qGFAI .navbar.opened {
   transition: all 0.3s;
@@ -1591,6 +1626,35 @@ a {
     left: -1rem;
   }
 }
+.cid-uorxWXOCcW {
+  padding-top: 10rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/messenger-creation-0d4f77b5-5773-4957-9f4a-233a25a92a92-945x2048.jpeg");
+}
+.cid-uorxWXOCcW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uorxWXOCcW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uorxWXOCcW .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-uorxWXOCcW .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-uorxWXOCcW .mbr-text,
+.cid-uorxWXOCcW .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-tN8nJF0svg {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1797,6 +1861,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1892,8 +1959,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
 }
 .cid-sFCw1qGFAI .navbar.opened {
   transition: all 0.3s;
@@ -2778,7 +2845,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sFCw1qGFAI button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3830,7 +3897,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNbRhe260t button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4614,7 +4681,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNc1Pkos3z button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -5398,7 +5465,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNc9gJuTi2 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6182,7 +6249,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNce2ve8dp button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -6966,7 +7033,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNcioZfcne button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -7482,7 +7549,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNcnxivn7X button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -7998,7 +8065,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNcpTPAWaB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -8514,7 +8581,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tNcs3nawHa button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -8758,6 +8825,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -8853,8 +8923,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
 }
 .cid-sFCw1qGFAI .navbar.opened {
   transition: all 0.3s;
@@ -9334,6 +9404,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -9429,8 +9502,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #000000;
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
 }
 .cid-sFCw1qGFAI .navbar.opened {
   transition: all 0.3s;
