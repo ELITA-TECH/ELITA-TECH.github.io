@@ -30,9 +30,6 @@
 		<loc>https://elita-tech.github.io/index.html/index.html</loc>
 	</url>
 	<url>
-		<loc>https://elita-tech.github.io/index.html/page10.html</loc>
-	</url>
-	<url>
 		<loc>https://elita-tech.github.io/index.html/zgłoszenie-serwisowe.html</loc>
 	</url>
 	<url>
@@ -58,5 +55,8 @@
 	</url>
 	<url>
 		<loc>https://elita-tech.github.io/index.html/modele-wspolpracy.html</loc>
+	</url>
+	<url>
+		<loc>https://elita-tech.github.io/index.html/klienci.html</loc>
 	</url>
 </urlset>
