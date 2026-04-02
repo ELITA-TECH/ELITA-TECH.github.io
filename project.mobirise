@@ -107,7 +107,7 @@
     "uniqCompNum": 421,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": {
       "colorText": "#1f2933",
       "colorLink": "#f97316",
